@@ -6,6 +6,10 @@ title: Home
 <h1>coding in the cloud</h1>
 
 
+{% for page in site.pages %}
+    <a href="{{page.url}}"> {{ page.url }}</a>
+{% endfor %}
+
 
 <!-- Show last 5 posts here -->
 {% for post in paginator.posts %}

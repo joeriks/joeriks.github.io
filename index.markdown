@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+title: Home
 ---
 
 ## joeriks - coding in the cloud

@@ -7,7 +7,7 @@ title: Home
 
 
 {% for page in site.pages %}
-	{% if page.title != "" && page.title!="Home" %}
+	{% if page.title != "" & page.title!="Home" %}
     <a href="{{page.url}}"> {{ page.title }}</a>
 	{% endif %}
 {% endfor %}

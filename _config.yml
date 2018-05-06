@@ -1,1 +1,17 @@
 theme: jekyll-theme-cayman
+
+# Name of your blog (this will show up at the top of your page and in the RSS feed)
+name: Coding in the cloud
+
+# Short description (goes below the title; it will also be used in the RSS feed)
+description: Build: #fail
+
+# Your name, as you want it to appear underneath each post and in the footer
+author: joeriks
+
+
+# The directory for category index pages. Change it to something else if
+# for example you want links like /categories/category1 instead of /category1
+category_dir: /
+
+
